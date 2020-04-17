@@ -1,6 +1,6 @@
 /*Disclaimer: Its been really long since I touched Java, my code is very rusty.
 
-Consider a this following service, it accepts details about a user account and based on the details it starts
+Consider this following service, it accepts details about a user account and based on the details it starts
 a corresponding workflow.
 
    account details are:
